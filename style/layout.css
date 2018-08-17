@@ -1,0 +1,17 @@
+.header-wrapper {
+	background-color: #1b1a26;
+	border-bottom: 2px solid #ffdf00;
+}
+
+.footer-wrapper {
+	height: 70px;
+	background-color: #1b1a26;
+}
+
+.main-wrapper {
+	flex: 1 1 auto;
+	background-image: url('../assets/vid_bg@2x.png');
+	background-size: 45%;
+	background-position: top right;
+	background-repeat: no-repeat;
+}

@@ -1,0 +1,43 @@
+.info {
+	margin: 150px 0 206px 0;
+	max-width: 430px;
+}
+
+.information {
+	font-family: Rubik-Light;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #f9f9fa;
+	margin: 25px 0;
+}
+
+.logos {
+	display: flex;
+}
+
+.button:first-child {
+	margin-right: 35px;
+}
+
+.button {
+	display: block;
+}
+
+.name {
+	font-family: MarkPro;
+	font-size: 54px;
+	font-weight: 500;
+	line-height: 1.11;
+	color: #f9f9fa;
+	text-transform: uppercase;
+}
+
+.question {
+	width: 375px;
+	height: 35px;
+	font-family: MarkPro;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 1.42;
+	color: #f9f9fa;
+}

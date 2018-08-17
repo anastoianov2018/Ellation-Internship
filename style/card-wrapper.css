@@ -1,0 +1,71 @@
+.card-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 -10px;
+}
+
+.card {
+	flex: 0 0 33%;
+	position: relative;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.bigcard {
+	flex: 0 0 50%;
+	position: relative;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.bar {
+	max-width: 100%;
+}
+
+.bars {
+	max-width: 100% ;
+}
+
+.titles {
+	font-family: MarkPro;
+	font-size: 24px;
+	font-weight: bold;
+	color: #1b1a26;
+	top: 30px;
+	right: 100px;
+	position: absolute;
+	display: block;
+}
+
+.titlecard {
+	font-family: MarkPro;
+	font-size: 24px;
+	font-weight: bold;
+	color: #1b1a26;
+	position: absolute;
+	top: 30px;
+	right: 120px;
+	display: block;
+}
+
+.logobar {
+	right: 30px;
+	position: absolute;
+	bottom: 30px;
+}
+
+.logobigbar {
+	position: absolute;
+	bottom: 30px;
+	right: 30px;
+}
+
+.logoimagine {
+	max-width: 100%;
+	display: block;
+}
+
+.logoimg {
+	max-width: 100%;
+	display: block;
+}
